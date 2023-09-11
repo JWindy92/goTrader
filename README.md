@@ -1,0 +1,1 @@
+Playground project to learn golang an play with stock APIs
